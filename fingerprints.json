@@ -168,14 +168,6 @@
     "output": "Not vulnerable"
   },
   {
-    "service": "Fly.io",
-    "cname": [],
-    "documentation": "no writeup",
-    "fingerprint": "404 Not Found",
-    "nxdomain": false,
-    "output": "Not vulnerable"
-  },
-  {
     "service": "Freshdesk",
     "cname": [],
     "documentation": "[Freshdesk Support Page](https://support.freshdesk.com/support/solutions/articles/37590-using-a-vanity-support-url-and-pointing-the-cname)",
