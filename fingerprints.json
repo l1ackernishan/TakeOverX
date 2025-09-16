@@ -7,6 +7,8 @@
     "nxdomain": true,
     "output": "Possibility 50%"
   },
+
+  
   {
     "service": "Fastly",
     "cname": ["fastly.net"],
@@ -15,6 +17,8 @@
     "nxdomain": true,
     "output": "Possibility 10%"
   },
+
+  
   {
     "service": "Microsoft Azure",
     "cname": [
