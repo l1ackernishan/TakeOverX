@@ -102,14 +102,6 @@
     "output": "Vulnerable"
   },
   {
-    "service": "Cargo Collective 404 Not Found",
-    "cname": [],
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
-    "fingerprint": "404 Not Found",
-    "nxdomain": false,
-    "output": "Vulnerable"
-  },
-  {
     "service": "Cloudfront",
     "cname": [],
     "documentation": "[Domain Security on Amazon CloudFront](https://aws.amazon.com/blogs/networking-and-content-delivery/continually-enhancing-domain-security-on-amazon-cloudfront/)",
