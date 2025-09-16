@@ -4,7 +4,7 @@
     "cname": ["elb.amazonaws.com"],
     "documentation": "no writeup",
     "fingerprint": "The specified bucket does not exist",
-    "dns_status": "nxdomain",
+    "nxdomain": true,
     "output": "Possibility 50%"
   },
   {
@@ -12,7 +12,7 @@
     "cname": ["fastly.net"],
     "documentation": "No Writeup",
     "fingerprint": "Fastly error: unknown domain:",
-    "dns_status": "nxdomain",
+    "nxdomain": true,
     "output": "Possibility 10%"
   },
   {
@@ -35,8 +35,8 @@
       "visualstudio.com"
     ],
     "documentation": "no writeup",
-    "fingerprint": null,
-    "dns_status": "NXDOMAIN",
+    "fingerprint": false,
+    "nxdomain": true,
     "output": "Possibility 60%"
   }
 ]
