@@ -5,7 +5,7 @@
       "elasticbeanstalk.com"
     ],
     "documentation": "no writeup",
-    "fingerprint": "false",
+    "fingerprint": false,
     "nxdomain": true,
     "output": "Vulnerable"
   },
@@ -15,7 +15,7 @@
       "elb.amazonaws.com"
     ],
     "documentation": "no writeup",
-    "fingerprint": "false",
+    "fingerprint": false,
     "nxdomain": true,
     "output": "Not vulnerable"
   },
@@ -131,7 +131,7 @@
       "trydiscourse.com"
     ],
     "documentation": "[Hackerone](https://hackerone.com/reports/264494)",
-    "fingerprint": "false",
+    "fingerprint": false,
     "nxdomain": true,
     "output": "Vulnerable"
   },
@@ -397,7 +397,7 @@
       "visualstudio.com"
     ],
     "documentation": "no writeup",
-    "fingerprint": "false",
+    "fingerprint": false,
     "nxdomain": true,
     "output": "Vulnerable"
   },
